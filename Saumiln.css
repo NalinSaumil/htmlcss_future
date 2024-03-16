@@ -1,0 +1,14 @@
+.black{
+    color: black;
+}
+.textdec{
+    text-decoration: none;
+    text-align: center;
+}
+.backimg{
+    background-image: url(Saumiln.jpg);
+    background-position: right, left;
+}
+a:link, a:hover, a:active, a:visited{
+    text-decoration: none;
+}
